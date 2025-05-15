@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Akhil</h1>
 <p align="center">
-  A passionate Frontend Web Developer from India 🚀  
+  A Frontend Web Developer from India 🚀  
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎨 I love building modern, responsive, and animated web interfaces
 - 🚀 Currently polishing advanced UI/UX and learning Three.js & web performance techniques
 - 📌 Goal: To land a solid frontend developer job and grow into a full-stack dev
-- 📫 How to reach me: [your-email] | [your LinkedIn/profile link]
+- 📫 How to reach me:(https://www.linkedin.com/in/akhil-konda-abb9252a0/)
 
 ---
 
@@ -33,15 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil&show_icons=true&theme=radical" alt="akhil's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil&theme=radical&hide_border=true" alt="akhil's GitHub Streak" />
-</p>
-
----
 
 ## 💬 Fun Fact
 
